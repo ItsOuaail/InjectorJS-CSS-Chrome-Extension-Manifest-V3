@@ -21,4 +21,6 @@ injector.injectInternalCss(`
     .dark.flex-shrink-0.overflow-x-hidden.bg-gray-900 {
         filter: saturate(5);
     }
+
+    
 `);

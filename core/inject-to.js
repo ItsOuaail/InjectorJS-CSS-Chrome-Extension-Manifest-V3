@@ -6,7 +6,7 @@ const injectTo = [
     'linktr.ee',
     'example.com',
     'twitter.com',
-    'chat.openai.com',
+    'chatgpt.com',
     'www.ea.com',
     'www.youtube.com',
     'www.facebook.com',
